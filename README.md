@@ -34,7 +34,7 @@ I am an AI enthusiast, software developer and a graduate student (soon to be com
 
 - 📫 How to reach me: sampreet.v.ai@gmail.com
 
-## 💻 Tech Stack:
+## 💻 Tech Stack Used:
 
 <!-- Languages -->
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
