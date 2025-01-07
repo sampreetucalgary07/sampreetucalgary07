@@ -1,7 +1,7 @@
 <!--
 **sampreetucalgary07/sampreetucalgary07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-<h1 align="center">Hello <img src="./hi.gif" width="40px" height="40px"> I'm Sampreet Vaidya</h1>
+<h1 align="center">Hello 👋👋 I'm Sampreet Vaidya</h1>
 
 <!-- <div align="center">
   <img src ="./banner.png" />
@@ -13,7 +13,7 @@ I am an AI enthusiast, software developer and a graduate student (soon to be com
 ## 👆🏻👆🏻 Too Long; Didn't Read! 🙌
 
 <p align="center">
-  <img src="./code.gif" height="240px" />
+  <img src="./code.gif" height="210px" />
 </p>
 
 <!-- - 🙋‍♂️ All about me is at **[My Website]()** -->
