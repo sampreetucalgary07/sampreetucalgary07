@@ -12,7 +12,7 @@ I am an AI enthusiast, software developer and a graduate student (soon to be com
 
 ## 👆🏻👆🏻 Too Long; Didn't Read! 🙌
 
-<img  src="./code.gif" height="240px" align="right" />
+<img  src="./code.gif" height="240px" align="center" />
 
 <!-- - 🙋‍♂️ All about me is at **[My Website]()** -->
 
