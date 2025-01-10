@@ -16,7 +16,7 @@ I am an AI enthusiast, software developer and a graduate student (soon to be com
   <img src="./code.gif" height="210px" />
 </p>
 
-🙋‍♂️ All about me is at **[My Website](https://www.sampreetvaidya.engineer)**
+- 🙋‍♂️ All about me is at **[https://www.sampreetvaidya.engineer](https://www.sampreetvaidya.engineer)**
 
 - 🔭 I’m currently looking for `jobs`.
 
