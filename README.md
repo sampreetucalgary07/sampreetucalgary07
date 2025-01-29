@@ -8,7 +8,7 @@
 
 </div> -->
 
-I am an AI enthusiast, software developer and a graduate student (soon to be completed..) in Software Engineering at University of Calgary. Under the supervision of Dr. Hatem Abou-Zeid and Dr. Diwakar Krishnamurthy, I was fortunate to work on some exciting projects in a really "cool" and ever-growing field of Machine Learning. Mainly, I worked with prediction of time series data using transfer learning and compression of huge 8K Virtual reality frames using VAE-GAN. Acceptance of my work at reputed international conferences reflects my problem-solving ability and result-oriented mindset. With a proven track of delivering results, I am now looking for jobs/RAs to work on some exciting projects and with a "cool" team (obviously!)
+I am an AI enthusiast, software developer and recently graduated student in Software Engineering at University of Calgary. As a research assistant, I was fortunate to work on some exciting projects in a really "cool" and ever-growing field of Machine Learning and Wireless communications. Mainly, I worked with prediction of time series data using transfer learning and compression of huge 8K Virtual reality frames using VAE-GAN. Acceptance of my work at reputed international conferences reflects my problem-solving ability and result-oriented mindset. With a proven track of delivering results, I am now looking for jobs/RAs to work on some exciting projects and with a "cool" team (obviously!)
 
 ## 👆🏻👆🏻 Too Long; Didn't Read! 🙌
 
