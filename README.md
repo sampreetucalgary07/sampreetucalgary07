@@ -16,7 +16,7 @@ I am an AI enthusiast, reseracher and software developer. I completed my MSc. in
   <img src="./code.gif" height="210px" />
 </p>
 
-- 🙋‍♂️ All about me is at **[https://www.sampreetvaidya.engineer](https://www.sampreetvaidya.engineer)**
+- 🙋‍♂️ All about me is at **[https://www.sampreetvaidya.dev](https://sampreet-vaidya-ai.vercel.app)**
 
 - 🔭 I’m currently looking for `jobs`.
 
