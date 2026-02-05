@@ -18,8 +18,6 @@ I am an AI enthusiast, reseracher and software developer. I completed my MSc. in
 
 - 🙋‍♂️ All about me is at **[https://www.sampreetvaidya.dev](https://sampreet-vaidya-ai.vercel.app)**
 
-- 🔭 I’m currently looking for `jobs`.
-
 - 🌱 I’m currently learning `Model refinement on personal data`.
 
 - 👯 I’m looking to collaborate for `ML Projects`.
